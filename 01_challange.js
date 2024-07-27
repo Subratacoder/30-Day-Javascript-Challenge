@@ -2,8 +2,8 @@
 var num = 28;
 let name = "Subrata";
 
-// console.log(num);
-// console.log(name);
+console.log(num);
+console.log(name);
 
 //Activity-2 Constant Declearation
 const  userLoggedIn = 'false';
@@ -20,17 +20,17 @@ const userDetail = {
 }
 const myFavHero = ['Ironman', 'Superman', 'Batman', 'Thor']
 
-// console.log(typeof num1);
-// console.log(typeof str);
-// console.log(typeof bool);
-// console.log(typeof userDetail);
-// console.log(typeof myFavHero);
+console.log(typeof num1);
+console.log(typeof str);
+console.log(typeof bool);
+console.log(typeof userDetail);
+console.log(typeof myFavHero);
 
 //Activity-4 Reassigning Variables
 let place = 'Kashmir';
-// console.log(place);
+console.log(place);
 place = 'Thailand';
-// console.log(place);
+console.log(place);
 
 //Activity-4 Understanding Const
 const favCar = 'BMW';
