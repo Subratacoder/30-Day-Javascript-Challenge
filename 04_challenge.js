@@ -46,4 +46,16 @@ function factorial(n) {
 
 // Example usage:
 let number = 5;
-console.log(`The factorial of ${number} is ${factorial(number)}.`);
+// console.log(`The factorial of ${number} is ${factorial(number)}.`);
+
+// Pattern printing
+let n = 4
+for (let o = 1; o <= n; o++) {
+    let pattern = ""
+        for (let i = 1; i <= o ; i++) {
+            pattern += "*"
+            
+             }
+    console.log(pattern);
+    
+}
